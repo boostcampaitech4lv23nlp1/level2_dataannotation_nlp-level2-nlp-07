@@ -14,8 +14,17 @@
     - baseline : for check base
     - rbert : for further reading 
 - 제작한 데이터를 통한 지식그래프 구축
-
     - networkx, pyvis를 통해 지식 그래프 구축
+
+### 지식 그래프 구축 예시
+1. Type별 시각화 
+![type_network](src/type_network.png)
+2. word별 시각화
+![word_network](src/word_network.png)
+![word_network2](src/word_network2.png)
+![word_network3](src/word_network3.png)
+
+
 ```
 for_binary/
 │
