@@ -8,6 +8,13 @@
 
 **대학에서 배울 수 있는 학문**들의 관계를 추출하고자 하는 연구자 분들에게 도움이 될 것이고 이외 **학문에 대한 지식 그래프 및 유관 분야 소개** 등으로의 확장 또한 가능할 것입니다.
 
+### Members
+
+김한성|염성현|이재욱|최동민|홍인희|
+:-:|:-:|:-:|:-:|:-:
+<img src='https://avatars.githubusercontent.com/u/72785706?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/71070496?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/90924434?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/69616444?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/55435898?v=4' height=80 width=80px></img>|
+[Github](https://github.com/datakim1201)|[Github](https://github.com/neulvo)|[Github](https://github.com/datakim1201)|[Github](https://github.com/datakim1201)|[Github](https://github.com/datakim1201)
+
 ## 우리의 목적 
 - 데이터 제작의 신뢰성 확인 IAA
 - 이전 대회 비교를 통한 성능 비교 
