@@ -5,9 +5,9 @@
 :-:|:-:|:-:|:-:|:-:
 <img src='https://user-images.githubusercontent.com/97818356/208237635-9bf65d96-ce27-4575-beb4-bb581a2c8e32.jpeg' height=80 width=80px></img>|<img src="https://user-images.githubusercontent.com/97818356/208237572-10eeebd0-9134-41ce-a9a2-a9577f8384e6.jpeg" height=80 width=80px/>|<img src='' height=80 width=80px></img>|<img src='' height=80 width=80px></img>|<img src='https://user-images.githubusercontent.com/97818356/208237742-7901464c-c4fc-4066-8a85-1488d56e0cce.jpg' height=80 width=80px>|
 [Github](https://github.com/datakim1201)|[Github](https://github.com/neulvo)|[Github](https://github.com/datakim1201)|[Github](https://github.com/unknownburphy)|[Github](https://github.com/inni-iii)
-&nbsp; 
 
-## Wrap up report
+
+## :bowtie: Wrap up report
 [project report 바로가기](https://github.com/boostcampaitech4lv23nlp1/level2_dataannotation_nlp-level2-nlp-07/blob/main/NLP%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%9C%EC%9E%91_NLP_%ED%8C%80%20%EB%A6%AC%ED%8F%AC%ED%8A%B8(07%EC%A1%B0).pdf)  
 &nbsp;  
 ## 프로젝트 개요
